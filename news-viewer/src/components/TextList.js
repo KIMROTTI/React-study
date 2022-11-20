@@ -1,6 +1,7 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import TextItem from './TextItem';
+import { dummy } from '../dummy';
 
 const TextItemBlock = styled.div`
   box-sizing: border-box;
@@ -23,14 +24,22 @@ const sampleArticle = {
 };
 
 const TextList = () => {
+  const [writer, setWriter] = useState(dummy);
+
+  useEffect(() => {
+    console.log(1);
+    setWriter(dummy);
+  });
+  console.log(2);
   return (
     <TextItemBlock>
-      <TextItem data={sampleArticle} />
-      <TextItem data={sampleArticle} />
-      <TextItem data={sampleArticle} />
-      <TextItem data={sampleArticle} />
-      <TextItem data={sampleArticle} />
-      <TextItem data={sampleArticle} />
+      <TextItem data={writer.data[0]} />
+      <TextItem data={writer.data[1]} />
+      <TextItem data={writer.data[2]} />
+      <TextItem data={writer.data[3]} />
+      <TextItem data={writer.data[4]} />
+      <TextItem data={writer.data[5]} />
+      <TextItem data={writer.data[6]} />
     </TextItemBlock>
   );
 };
