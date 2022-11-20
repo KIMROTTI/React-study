@@ -1,6 +1,54 @@
 export const dummy = {
-  userId: 1,
-  id: 1,
-  title: '부산 바다 여행기',
-  completed: false,
+  code: '0000',
+  msg: 'ok',
+  data: [
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+    {
+      title: '제목',
+      description: 'aaaaaaa',
+      url: 'https://google.com',
+      urlToImage: 'https://via.placeholder.com/160',
+    },
+  ],
 };
