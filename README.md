@@ -1,7 +1,7 @@
 # 리액트 공부 자료
 
-### news-viewr
-- 뉴스뷰어 만들기<br/>
+### news-viewr(category)
+- 뉴스뷰어 만들기(비동기 리스트 / 카테고리)<br/>
 https://sycdev.tistory.com/m/search/posts?keyword=%EB%89%B4%EC%8A%A4
 
 ### slick-carousel
