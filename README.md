@@ -20,9 +20,10 @@ https://blog.naver.com/PostView.nhn?blogId=yui050505&logNo=222040608454&category
 
 ### Social Login
 #### 카카오 로그인
-- rest api 카카오 소셜로그인<br/>
+- rest api 카카오 소셜로그인1<br/>
 https://data-jj.tistory.com/53
 
+- rest api 카카오 소셜로그인2<br/>
 https://velog.io/@isabel_noh/React-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-REST-API
 
 - 리덕스 설명과 시행착오 카카오 소셜로그인<br/>
