@@ -1,5 +1,12 @@
 # 리액트 공부 자료
 
+## React 내부 기술
+### React Hooks 정리
+- Hooks 총정리<br/>
+https://velog.io/@goyou123/React-Hooks-%EC%B4%9D%EC%A0%95%EB%A6%AC
+
+
+## 기능 구현
 ### news-viewr(category)
 - 뉴스뷰어 만들기(비동기 리스트 / 카테고리)<br/>
 https://sycdev.tistory.com/m/search/posts?keyword=%EB%89%B4%EC%8A%A4
@@ -38,3 +45,7 @@ https://www.youtube.com/watch?v=N4q-kVRHs0Q
 ### React CI/CD
 - react aws ec2 clcd 적용하기<br/>
 https://happysisyphe.tistory.com/47
+
+### react bootstrap
+- react bootstrap custom 수정하기<br/>
+https://think0wise.tistory.com/24
